@@ -1,5 +1,5 @@
 # Walmart-Sales-Forecast
-This project presents a comprehensive sales revenue forecasting solution using historical Walmart data. Built entirely in Excel, it includes time series forecasting logic, interactive calendar visualization, trend dashboards, and sales performance analysis by state and customer group.
+This project presents a comprehensive sales revenue forecasting solution using historical Walmart data. Built entirely in Excel, it includes time series forecasting logic, interactive calendar visualization, trend dashboards and sales performance analysis by state and customer group.
 | Sheet Name              | Description |
 |-------------------------|-------------|
 | **Raw Sales Data**      | Original transaction-level data for all states |
